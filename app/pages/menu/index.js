@@ -1,7 +1,7 @@
 
 import echarts from './echarts'
-// import editor from './editor'
+import editor from './editor'
 
 export {
-  echarts,
+  echarts, editor,
 }
